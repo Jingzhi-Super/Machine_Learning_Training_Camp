@@ -1,1 +1,1 @@
-# Machine_Learning_Training_Camp
+## This repo is used for homework of the machine learning training camp
